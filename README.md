@@ -12,4 +12,4 @@
 
 ![](./screenshots/metamask.png)
 
-### To properly run this application, you will need to install Ganache, the Truffle Framework, and Metamask. You will also need to install dependencies with ```npm install```. Once you do, compile and migrate the contracts, then start the application with ```npm start```.
+### To properly run this application in test mode, you will need to install Ganache, the Truffle Framework, and Metamask. You will also need to install dependencies with ```npm install```. Once you do, compile and migrate the contracts, then start the application with ```npm start```.
